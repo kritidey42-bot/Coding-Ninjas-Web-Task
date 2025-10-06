@@ -43,3 +43,14 @@ RandomQuoteGenerator/
 2.Open the folder in your code editor (like VS Code).
 
 3.Run the project by simply opening index.html in your web browser
+## API Reference
+
+Base URL: https://api.quotable.io/random
+
+Example Response:
+{
+  "_id": "XYZ123",
+  "content": "Be yourself; everyone else is already taken.",
+  "author": "Oscar Wilde"
+}
+
